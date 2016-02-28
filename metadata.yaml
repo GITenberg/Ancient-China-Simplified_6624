@@ -1,0 +1,25 @@
+_repo: Ancient-China-Simplified_6624
+creator:
+  author:
+    agent_name: Parker, Edward Harper
+    alias: Parker, E. H. (Edward Harper)
+    birthdate: 1849
+    deathdate: 1926
+    gutenberg_agent_id: '2117'
+    url: http://www.gutenberg.org/2009/agents/2117
+description: A fantastically rich resource about the history of Ancient China.
+gutenberg_bookshelf: Children's History
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6624'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'China'
+- !lcsh 'China -- History'
+title: Ancient China Simplified
+url: http://www.gutenberg.org/ebooks/6624
